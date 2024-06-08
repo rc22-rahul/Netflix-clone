@@ -21,3 +21,7 @@ GOOGLE_CLIENT_ID=""
 GOOGLE_CLIENT_SECRET=""
 
 ```
+
+## Screenshots
+![Screenshot 2024-06-08 201807](https://github.com/rc22-rahul/Netflix-clone/assets/86233333/c846d8da-3142-43f9-83d6-a1dc7760ceeb)
+![Screenshot 2024-06-08 201736](https://github.com/rc22-rahul/Netflix-clone/assets/86233333/2065aca5-2533-4284-ae1f-e55f4e7f5b75)
